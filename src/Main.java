@@ -112,7 +112,7 @@ public class Main {
             if (args[i].equals("-data")) {
                 text = args[i + 1];
             }
-            
+
             if (args[i].equals("-in")) {
                 pathIn = args[i + 1];
             }
